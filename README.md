@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vladimirzhushma
-- 👀 I’m a Full-stack(PHP, JavaScript & Python) web developer expertised in AI/ML, ChatGPT, Chatbot and LangChain & Pinecone.
-- 🌱 I’m currently working to integrate AI/ML(ChatGPT, Chatbot) with different websites and concerned products.
+- 👀 I’m a backend-oriented full stack software engineer experienced in Web and Bot development.
+- 🌱 I’m currently working to integrate bots(AI chatbot, Scraping bot, Trading bot) with different websites, communication tools and concerned products.
 - 💞️ I’m looking to collaborate on this way.
 
 <!---
