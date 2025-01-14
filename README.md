@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vladimirzhushma
 - 👀 I’m a backend-oriented full stack software engineer experienced in Web and Bot development.
-- 🌱 I’m currently taking part in development of [taprootfoundation.org](https://taprootfoundation.org/).
+- 🌱 I’m currently digging into Django, FastAPI with web and bot integration.
 - 💞️ I’m looking for other opportunities.
 
 <!---
