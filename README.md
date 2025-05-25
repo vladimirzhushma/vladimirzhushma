@@ -13,6 +13,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vladimirzhushma&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RAZGRIZ219104's github-readme-streak-stats"/>
   </a>
 </p>
+
+<p align="center">
+    <a href="#">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=vladimirzhushma&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
 <!---
 vladimirzhushma/vladimirzhushma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
