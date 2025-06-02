@@ -4,7 +4,8 @@
 - 💞️ I’m looking for other opportunities.
 
 <hr></hr>
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=vladimirzhushma" /></p>
+<hr></hr>
 <p align="center">
   <a href="https://github.com/vladimirzhushma?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=vladimirzhushma&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@vladimirzhushma's github-readme-stats"/>
