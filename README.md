@@ -4,7 +4,7 @@
 - 💞️ I’m looking for other opportunities.
 
 <hr></hr>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=vladimirzhushma" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=vladimirzhushma&label=Profile%20views&color=blue&style=for-the-badge&logo=star" alt="vladimirzhushma" style="padding-right:20px;" /></p>
 <hr></hr>
 <p align="center">
   <a href="https://github.com/vladimirzhushma?tab=repositories">
